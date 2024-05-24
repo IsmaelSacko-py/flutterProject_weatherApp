@@ -1,16 +1,19 @@
-# flutterproject_applicationmeteo
+> # Flutter Weather App
 
-A new Flutter project.
+<div style="text-align: justify;">
 
-## Getting Started
+C’est une application mobile développée en <a href="https://fr.wikipedia.org/wiki/Flutter_(logiciel)">Flutter</a> (framework du langage de prorammation Dart). Elle permet de visualiser les prévisions météorologiques de certaines villes (cette version de l’application ne prend en compte que des villes prédéfinies). Grace à l’API météo de Visual Crossing, l’application fournit des données précises des conditions actuelles et des prévisions sur plusieurs jours. L’interface de l’application a été pensé de sorte à être intuitive et conviviale.
+</div>
 
-This project is a starting point for a Flutter application.
+## Présentation de l'application'
 
-A few resources to get you started if this is your first Flutter project:
+<img align="left" width="48%" style="margin-bottom: 20px;" src="assets/AppOverview/HomePage.png">
+<img align="right" width="48%" style="margin-bottom: 20px;"  src="assets/AppOverview/PageSelectVilles.png">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img align="left" width="48%" style="margin-bottom: 20px;"  src="assets/AppOverview/PageChargement.png">
+<img align="right" width="48%" style="margin-bottom: 20px;" src="assets/AppOverview/PageVilles.png">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img align="left" width="48%" style="margin-bottom: 20px;"  src="assets/AppOverview/PageDetailsVille.png">
+<img align="right" width="48%" style="margin-bottom: 20px;"  src="assets/AppOverview/PagePrevisionsProchainsJours.png">
+
+
