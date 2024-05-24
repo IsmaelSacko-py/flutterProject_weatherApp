@@ -7,13 +7,13 @@ C’est une application mobile développée en <a href="https://fr.wikipedia.org
 
 ## Présentation de l'application'
 
-<img align="left" width="45%" style="margin-bottom: 200px;" src="assets/AppOverview/HomePage.png">
-<img align="right" width="45%" style="margin-bottom: 200px;"  src="assets/AppOverview/PageSelectVilles.png">
+<img align="left" width="45%" style="margin-bottom: 20px;" src="assets/AppOverview/HomePage.png">
+<img align="right" width="45%" style="margin-bottom: 20px;"  src="assets/AppOverview/PageSelectVilles.png">
 
-<img align="left" width="45%" style="margin-bottom: 200px;"  src="assets/AppOverview/PageChargement.png">
-<img align="right" width="45%" style="margin-bottom: 200px;" src="assets/AppOverview/PageVilles.png">
+<img align="left" width="45%" style="margin-bottom: 20px;"  src="assets/AppOverview/PageChargement.png">
+<img align="right" width="45%" style="margin-bottom: 20px;" src="assets/AppOverview/PageVilles.png">
 
-<img align="left" width="45%" style="margin-bottom: 200px;"  src="assets/AppOverview/PageDetailsVille.png">
-<img align="right" width="45%" style="margin-bottom: 200px;"  src="assets/AppOverview/PagePrevisionsProchainsJours.png">
+<img align="left" width="45%" style="margin-bottom: 20px;"  src="assets/AppOverview/PageDetailsVille.png">
+<img align="right" width="45%" style="margin-bottom: 20px;"  src="assets/AppOverview/PagePrevisionsProchainsJours.png">
 
 
